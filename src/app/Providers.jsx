@@ -1,6 +1,5 @@
 "use client"; //we need this for the error to be gone because theme provider or context only works on client not in server
 import { ThemeProvider } from "next-themes";
-import React from "react";
 
 export default function Providers({ children }) {
   return (
