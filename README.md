@@ -5,7 +5,7 @@ A clone application from IMDB movie website where you can search whatever movies
 You can choose from trending and top rated features to know the best movie for today
 
 technology used:
- * Next.js
+ * Next.js 13
  * React
  * tailwind
  * TMDB API
