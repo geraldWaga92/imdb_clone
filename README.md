@@ -10,8 +10,6 @@ technology used:
  * tailwind
  * TMDB API
  
+ Demo Video:
  
- 
-![imdb](https://user-images.githubusercontent.com/106008160/226270058-abb122d3-00e2-44bc-a1bd-b89321fe5d52.png)
-
-![imdb2](https://user-images.githubusercontent.com/106008160/226270071-f852f4d2-fd64-472d-a32e-c99be921c5f2.png)
+ [gerald-imdb-clone.webm](https://github.com/geraldWaga92/imdb_clone/assets/106008160/4b243f08-72e4-42ae-a285-f249cfbec62e)
